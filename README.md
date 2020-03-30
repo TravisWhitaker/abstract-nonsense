@@ -18,3 +18,8 @@ Random Ideas for Haskell Things that Should Exist
     - Should be possible to implement most of something like mplayer.
 - [Shadertoy](https://www.shadertoy.com/), but native.
 - A package like [gl](https://hackage.haskell.org/package/gl) but for EGL.
+- A full [GLFW](https://github.com/glfw/glfw) clone in pure Haskell.
+    - The Rust community is good about making a good thing from scratch instead
+      of compromising by calling out to C. Haskell should be more like this.
+- Something like [Vega](https://vega.github.io/vega/), but rendered outside the
+browser and nice to use from GHCi.
